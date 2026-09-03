@@ -22,6 +22,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0120-triangle](https://github.com/itsshivateja/leetcode-problems/tree/master/0120-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/itsshivateja/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itsshivateja/leetcode-problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Dynamic Programming
 |  |
@@ -47,4 +48,8 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itsshivateja/leetcode-problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+## Math
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/itsshivateja/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
