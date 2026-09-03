@@ -22,6 +22,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0120-triangle](https://github.com/itsshivateja/leetcode-problems/tree/master/0120-triangle) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itsshivateja/leetcode-problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itsshivateja/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itsshivateja/leetcode-problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+## Sorting
+|  |
+| ------- |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itsshivateja/leetcode-problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 <!---LeetCode Topics End-->
