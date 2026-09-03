@@ -9,6 +9,7 @@ Solved Leetcode problems.
 | [0182-duplicate-emails](https://github.com/itsshivateja/leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/itsshivateja/leetcode-problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/itsshivateja/leetcode-problems/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/itsshivateja/leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/itsshivateja/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/itsshivateja/leetcode-problems/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/itsshivateja/leetcode-problems/tree/master/1683-invalid-tweets) |
