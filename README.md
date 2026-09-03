@@ -18,4 +18,12 @@ Solved Leetcode problems.
 | [1693-daily-leads-and-partners](https://github.com/itsshivateja/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/itsshivateja/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsshivateja/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/itsshivateja/leetcode-problems/tree/master/0120-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/itsshivateja/leetcode-problems/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
