@@ -15,6 +15,7 @@ Solved Leetcode problems.
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/itsshivateja/leetcode-problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/itsshivateja/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/itsshivateja/leetcode-problems/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/itsshivateja/leetcode-problems/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/itsshivateja/leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/itsshivateja/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/itsshivateja/leetcode-problems/tree/master/1729-find-followers-count) |
