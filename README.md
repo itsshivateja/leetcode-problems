@@ -18,6 +18,7 @@ Solved Leetcode problems.
 | [1148-article-views-i](https://github.com/itsshivateja/leetcode-problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/itsshivateja/leetcode-problems/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsshivateja/leetcode-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/itsshivateja/leetcode-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/itsshivateja/leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/itsshivateja/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/itsshivateja/leetcode-problems/tree/master/1729-find-followers-count) |
