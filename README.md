@@ -25,6 +25,7 @@ Solved Leetcode problems.
 | [1693-daily-leads-and-partners](https://github.com/itsshivateja/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/itsshivateja/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsshivateja/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/itsshivateja/leetcode-problems/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
